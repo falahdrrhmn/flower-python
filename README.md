@@ -47,3 +47,8 @@ for i in range(100):
 screen.exitonclick()
 
 ```
+
+![image](https://user-images.githubusercontent.com/92344349/229380087-3a02e521-fc23-4bb1-9f16-46d83ff8eca3.png)
+
+
+
