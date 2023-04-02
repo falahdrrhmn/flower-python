@@ -1,7 +1,6 @@
 # BIKIN BUNGA DI PYTHON
 
-'''py
-
+```py
 # bikin bunga menggunakan pyhon
 import turtle
 
@@ -19,4 +18,5 @@ for i in range (150):
     t.lt(60)
 
 s.exitonclick()
-'''
+```
+
