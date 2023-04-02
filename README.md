@@ -24,3 +24,26 @@ output :
 
 ![image](https://user-images.githubusercontent.com/92344349/229367348-4c6f9c40-5bab-4e9d-a144-e093fc243dec.png)
 
+# SPIRAL PYTHON
+
+```
+import turtle
+
+# membuat layar turtle
+screen = turtle.Screen()
+screen.bgcolor("black")
+
+# membuat turtle
+pen = turtle.Turtle()
+pen.speed(0)
+pen.color("white")
+
+# membuat spiral
+for i in range(100):
+    pen.forward(i * 5)
+    pen.right(144)
+
+# menutup layar setelah di-klik
+screen.exitonclick()
+
+```
