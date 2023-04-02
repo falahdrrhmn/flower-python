@@ -20,3 +20,7 @@ for i in range (150):
 s.exitonclick()
 ```
 
+output : 
+
+![image](https://user-images.githubusercontent.com/92344349/229367348-4c6f9c40-5bab-4e9d-a144-e093fc243dec.png)
+
