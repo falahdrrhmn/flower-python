@@ -26,7 +26,7 @@ output :
 
 # SPIRAL PYTHON
 
-```
+```py
 import turtle
 
 # membuat layar turtle
