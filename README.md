@@ -24,6 +24,8 @@ output :
 
 ![image](https://user-images.githubusercontent.com/92344349/229367348-4c6f9c40-5bab-4e9d-a144-e093fc243dec.png)
 
+<br>
+
 # SPIRAL PYTHON
 
 ```py
@@ -47,8 +49,11 @@ for i in range(100):
 screen.exitonclick()
 
 ```
+output : 
 
 ![image](https://user-images.githubusercontent.com/92344349/229380087-3a02e521-fc23-4bb1-9f16-46d83ff8eca3.png)
+
+<br>
 
 # TAMENG CAPT AMERIKA 
 
@@ -106,7 +111,7 @@ screen.exitonclick()
 
 ```
 
-output
+output : 
 
 ![image](https://user-images.githubusercontent.com/92344349/229380414-7fabcbfa-1f23-49c3-af09-80047d707a59.png)
 
